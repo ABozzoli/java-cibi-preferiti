@@ -10,6 +10,10 @@ public class CibiPreferiti {
 		
 		System.out.println("La classifica contiene " + arrayLength + " elementi.");
 
+		System.out.println("Cibo preferito: " + favFood[0] + ".");
+		
+		System.out.println("Cibo preferito ma non troppo: " + favFood[arrayLength - 1] + ".");
+		
 	}
 
 }
